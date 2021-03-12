@@ -21620,7 +21620,7 @@
 }
 
 .btn--primary:hover {
-  background-color: rgba(39, 128, 255, 0.8);
+  background-color: #11dac5;
   color: #fff;
 }
 
@@ -21762,7 +21762,7 @@ p {
 }
 
 .main-menu > li > a:hover {
-  color: #2780ff;
+  color: #6200ee;
 }
 
 @media (min-width: 992px) {
@@ -21821,7 +21821,7 @@ p {
 
 @media (min-width: 992px) {
   .main-menu .menu-dropdown .single-item:hover a h3 {
-    color: #2780ff;
+    color: #6200ee;
   }
 }
 
@@ -21879,7 +21879,7 @@ p {
 }
 
 .header-btns .btn-link:hover {
-  color: #2780ff;
+  color: #6200ee;
 }
 
 .header-btns.btns-group {
@@ -21889,10 +21889,10 @@ p {
 /*  Mobile Menu / Mean Menu Reset  */
 .hamburger-icon {
   font-size: 16px;
-  color: #2780ff;
+  color: #6200ee;
   width: 36px;
   height: 36px;
-  border: 2px solid #2780ff;
+  border: 2px solid #6200ee;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -21908,7 +21908,7 @@ p {
 }
 
 .hamburger-icon:hover {
-  background: #2780ff;
+  background: #6200ee;
   color: #fff;
   border-color: transparent;
 }
@@ -21991,7 +21991,7 @@ p {
   width: 50px;
   height: 50px;
   font-size: 20px;
-  background-color: #2780ff;
+  background-color: #6200ee;
   color: #fff;
   line-height: 50px;
   text-align: center;
@@ -22047,7 +22047,7 @@ p {
 }
 
 .mobile-navigation .mobile-menu li:hover > a {
-  color: #2780ff;
+  color: #6200ee;
 }
 
 .mobile-navigation .mobile-menu a {
@@ -22627,7 +22627,7 @@ p {
 }
 
 .content-widget .widget-icon {
-  background-color: #2780ff;
+  background-color: #6200ee;
   border-radius: 50%;
   width: 55px;
   height: 55px;
@@ -22813,7 +22813,7 @@ p {
           justify-content: center;
   -webkit-transition: .4s;
   transition: .4s;
-  background-color: #2780ff;
+  background-color: #6200ee;
   color: #fff;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -23042,12 +23042,12 @@ p {
 }
 
 .cta-icon i {
-  color: #2780ff;
+  color: #11dac5;
   font-size: inherit;
 }
 
 .cta-icon:hover {
-  background-color: #2780ff;
+  background-color: #11dac5;
 }
 
 .cta-icon:hover i {
@@ -23162,7 +23162,7 @@ p {
   width: 60px;
   height: 60px;
   font-size: 28px;
-  background-color: #2780ff;
+  background-color: #6200ee;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

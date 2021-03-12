@@ -22766,7 +22766,7 @@ p {
     Example Section
 //////////////////////////// */
 .example-section {
-  background-color: #222d3d;
+  background-color: #1F1926;
   z-index: 1;
 }
 
@@ -22813,7 +22813,7 @@ p {
           justify-content: center;
   -webkit-transition: .4s;
   transition: .4s;
-  background-color: #6200ee;
+  background-color: #11dac5;
   color: #fff;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -22833,8 +22833,8 @@ p {
 }
 
 .example-slider-wrapper .slick-arrow:hover {
-  background: #11dac5;
-  color: #fff;
+  background: #fff;
+  color: #000000;
 }
 
 .example-slider-wrapper .slick-arrow.slick-next {

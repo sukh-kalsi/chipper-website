@@ -22627,7 +22627,7 @@ p {
 }
 
 .content-widget .widget-icon {
-  background-color: #6200ee;
+  background-color: transparent;
   border-radius: 50%;
   width: 55px;
   height: 55px;

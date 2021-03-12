@@ -22833,8 +22833,8 @@ p {
 }
 
 .example-slider-wrapper .slick-arrow:hover {
-  background: white;
-  color: #000000;
+  background: #11dac5;
+  color: #fff;
 }
 
 .example-slider-wrapper .slick-arrow.slick-next {
@@ -23042,7 +23042,7 @@ p {
 }
 
 .cta-icon i {
-  color: #11dac5;
+  color: #6200ee;
   font-size: inherit;
 }
 
